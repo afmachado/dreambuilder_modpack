@@ -1,0 +1,104 @@
+# Brazilian Portugues translation for farming mod
+# Tradução para o Português do Brasil do farming Mod
+# Template for translations of farming mod
+# last update: 2017/May/25
+
+#init.lua
+Seed = Semente
+
+#barley.lua
+Barley Seed = Semente de Cevada
+Barley = Cevada
+
+#beanpole.lua
+Green Beans = Feijões Verdes
+Bean Pole (place on soil before planting beans) = Pão de Feijão (colocar no solo antes de plantar feijões)
+
+#blueberry.lua
+Blueberries = Mirtilo
+Blueberry Muffin = Bolinho de Mirtilo
+
+#carrot.lua
+Carrot = Cenoura
+Golden Carrot = Cenoura Dourada
+
+#cocoa.lua
+Cocoa Beans = Sementes de Cacau
+Cookie = Biscoito
+Bar of Dark Chocolate = Barra de Chocolate Preto
+
+#coffee.lua
+Coffee Beans = Sementes de Feijão
+Drinking Cup (empty) = Xícara (Vazia)
+Cold Cup of Coffee = Xícara de Café Frio
+Hot Cup of Coffee = Xícara de Café Quente
+
+#corn.lua
+Corn = Milho
+Corn on the Cob = Milho na Espiga
+Bottle of Ethanol = Garrafa de Etanol
+
+#cotton.lua
+Cotton Seed = Semente de Algodão
+Cotton = Algodão
+
+#cucumber.lua
+Cucumber = Pepino
+
+#donut.lua
+Donut = Rosquinha
+Chocolate Donut = Rosquinha de Chocolate
+Apple Donut = Rosquinha de Maçã
+
+#grapes.lua
+Grapes = Uvas
+Trellis (place on soil before planting grapes) = Treliça (colocar no solo antes de plantar parreiras)
+
+#hoes.lua
+Hoe = Enxada
+Wooden Hoe = Enxada de Madeira
+Stone Hoe = Enxada de Pedra
+Steel Hoe = Enxada de Ferro
+Bronze Hoe = Enxada de Bronze
+Mese Hoe = Enxada de Mese
+Diamond Hoe = Enxada de Diamante
+
+#melon.lua
+Melon Slice = Fatia de Melão
+Melon = Melão
+
+#potato.lua
+Potato = Batata
+Baked Potato = Purê de Batata
+
+#pumpkin.lua
+Pumpkin = Abóbora
+Pumpkin Slice = Fatia de Abóbora
+Jack 'O Lantern = Cabeça de Abóbora
+Pumpkin Bread = Pão de Abóbora
+Pumpkin Dough = Massa de Abóbora
+
+#rasperry.lua
+Raspberries = Framboesa
+Raspberry Smoothie = Creme de Framboesa
+
+#rhubarb.lua
+Rhubarb = Ruibarbo
+Rhubarb Pie = Torta de Ruibarbo
+
+#soil.lua
+Soil = Solo
+Wet Soil = Solo Úmido
+
+#sugar.lua
+Sugar = Açucar
+
+#tomato.lua
+Tomato = Tomate
+
+#wheat.lua
+Wheat Seed = Semente de Trigo
+Wheat = Trigo
+Straw = Palha
+Flour = Farinha
+Bread = Pão
